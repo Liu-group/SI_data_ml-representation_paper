@@ -5,15 +5,15 @@ Folder structure:
 ├── README.txt
 ├── load_script.py
 ├── ROAS.csv
-├── ROAS_features
+├── ROAS_feature
 │       └── ROAS_*.csv
 ├── ROAS_models
 │       └── ROAS_*.pkl
-├── OROP_features
+├── OROP_feature
 │       └── OROP_*.csv
 ├── OROP_models
 │       └── OROP_*.pkl
-├── OMROP_features
+├── OMROP_feature
 │       └── OMROP_*.csv
 ├── OMROP_models
 │       └── OMROP_*.pkl
